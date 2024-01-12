@@ -1,4 +1,4 @@
-## Machine-Learning-Specialization-Coursera-Andrew Ng 
+## Machine Learning Specialization-Coursera-Andrew Ng 
 ## This specialization includes 3 courses.
 ## 1. Supervised Machine Learning: Regression and Classification
 ## 2. Advanced Learning Algorithms
